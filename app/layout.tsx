@@ -11,7 +11,7 @@ const ibmPlexSrif = IBM_Plex_Serif({
 
 export const metadata: Metadata = {
   title: "PinnaclePay",
-  description: "Mordern Banking Platform",
+  description: "Modern Banking Platform",
   icons: {
     icon:'/icons/logo.svg'
   }
